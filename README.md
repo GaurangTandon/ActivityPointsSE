@@ -11,3 +11,6 @@ I recently initiated discussion on Activity points in SE network. It was not so 
 3. Extend the Chrome extension to display how a user's Activity points (aka activity) varied over time in a graph (like the [rep variation](https://chemistry.stackexchange.com/users/5026/gaurang-tandon?tab=reputation&sort=graph&StartDate=2018-02-13%2015:06:08Z), but a line graph instead of the bars)
 4. Implement a [StackApp](https://stackapps.com/) that can build Activity Point leagues for all the users on a SE site (similar to [rep leagues](https://stackexchange.com/leagues/431/alltime/chemistry))
 
+**Archived SE discussion page** - just in case it gets deleted due to so many downvotes
+
+[Wayback Machine archived page](https://web.archive.org/web/20180216051105/https://meta.stackexchange.com/questions/306872/activity-points-on-the-se-network?noredirect=1), [Image gallery on Postimage](https://postimg.org/gallery/nfm1thak/)
